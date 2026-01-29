@@ -3,12 +3,12 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "IL_TUO_API_KEY",
+  apiKey: "AIzaSyCnhZpACuFlfk6PNUKMXiJWQc-ZFshQHGs",
   authDomain: "lyra-digital.firebaseapp.com",
   projectId: "lyra-digital",
   storageBucket: "lyra-digital.appspot.com",
-  messagingSenderId: "IL_TUO_SENDER_ID",
-  appId: "IL_TUO_APP_ID"
+  messagingSenderId: "149974165319",
+  appId: "1:149974165319:web:9d014bf127322b9702ce62"
 };
 
 const app = initializeApp(firebaseConfig);
